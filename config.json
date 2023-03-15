@@ -1,28 +1,20 @@
 {
   "Final": [
     {
-      "width": 4896,
-      "height": 3264,
-      "path": "./photos/Final/IMG_0567.jpg",
-      "compressed_path": "./photos/Final/IMG_0567.min.jpg",
+      "width": 1620,
+      "height": 1080,
+      "path": "./photos/Final/IMG_0567-resized.jpg",
+      "compressed_path": "./photos/Final/IMG_0567-resized.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Final/IMG_0567.placeholder.jpg"
+      "placeholder_path": "./photos/Final/IMG_0567-resized.placeholder.jpg"
     },
     {
-      "width": 3264,
-      "height": 4896,
-      "path": "./photos/Final/IMG_0573.jpg",
-      "compressed_path": "./photos/Final/IMG_0573.min.jpg",
+      "width": 720,
+      "height": 1080,
+      "path": "./photos/Final/IMG_0573-resized.jpg",
+      "compressed_path": "./photos/Final/IMG_0573-resized.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Final/IMG_0573.placeholder.jpg"
-    },
-    {
-      "width": 4896,
-      "height": 3264,
-      "path": "./photos/Final/IMG_0576.jpg",
-      "compressed_path": "./photos/Final/IMG_0576.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Final/IMG_0576.placeholder.jpg"
+      "placeholder_path": "./photos/Final/IMG_0573-resized.placeholder.jpg"
     }
   ]
 }
