@@ -5,7 +5,7 @@
       "height": 3264,
       "path": "./photos/Final/IMG_0567.jpg",
       "compressed_path": "./photos/Final/IMG_0567.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Final/IMG_0567.placeholder.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "height": 4896,
       "path": "./photos/Final/IMG_0573.jpg",
       "compressed_path": "./photos/Final/IMG_0573.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Final/IMG_0573.placeholder.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "height": 3264,
       "path": "./photos/Final/IMG_0576.jpg",
       "compressed_path": "./photos/Final/IMG_0576.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Final/IMG_0576.placeholder.jpg"
     }
   ]

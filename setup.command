@@ -6,10 +6,10 @@ SCRIPT_PATH=$(dirname "$0")
 if [[ "$OSTYPE" == "darwin"* && -x "$(command -v sips)" ]]; then
   # sips is available
   # low res version of image
-    #python3 $SCRIPT_PATH/tools/duplicate.py min
-    #sips -Z 640 $SCRIPT_PATH/photos/**/*.min.jpeg &>/dev/null
-    #sips -Z 640 $SCRIPT_PATH/photos/**/*.min.png &>/dev/null
-    #sips -Z 640 $SCRIPT_PATH/photos/**/*.min.jpg &>/dev/null
+    python3 $SCRIPT_PATH/tools/duplicate.py min
+    sips -Z 640 $SCRIPT_PATH/photos/**/*.min.jpeg &>/dev/null
+    sips -Z 640 $SCRIPT_PATH/photos/**/*.min.png &>/dev/null
+    sips -Z 640 $SCRIPT_PATH/photos/**/*.min.jpg &>/dev/null
 
     # placeholder image for lazy loading
     python3 $SCRIPT_PATH/tools/duplicate.py placeholder
