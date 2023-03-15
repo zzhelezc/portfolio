@@ -1,270 +1,316 @@
 {
-  "Mockups": [
+  "Final": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "width": 2051,
+      "height": 1026,
+      "path": "./photos/Final/IMG_0570.jpg",
+      "compressed_path": "./photos/Final/IMG_0570.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0570.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "width": 2067,
+      "height": 1378,
+      "path": "./photos/Final/DSCF8309.jpg",
+      "compressed_path": "./photos/Final/DSCF8309.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/DSCF8309.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "width": 1201,
+      "height": 1801,
+      "path": "./photos/Final/DSCF8137.jpg",
+      "compressed_path": "./photos/Final/DSCF8137.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/DSCF8137.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "width": 2608,
+      "height": 3912,
+      "path": "./photos/Final/IMG_0607.jpg",
+      "compressed_path": "./photos/Final/IMG_0607.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0607.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
-    }
-  ],
-  "Travel Photography": [
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
-    },
-    {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
-    },
-    {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
-    },
-    {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
-    },
-    {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
-    },
-    {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
-    },
-    {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
-    },
-    {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
-    },
-    {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
-    },
-    {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
-    },
-    {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
-    },
-    {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
-    },
-    {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
-    },
-    {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
-    },
-    {
+      "width": 4896,
       "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "path": "./photos/Final/IMG_0567.jpg",
+      "compressed_path": "./photos/Final/IMG_0567.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0567.placeholder.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "width": 3264,
+      "height": 4896,
+      "path": "./photos/Final/IMG_0573.jpg",
+      "compressed_path": "./photos/Final/IMG_0573.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0573.placeholder.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
+      "width": 4625,
+      "height": 3084,
+      "path": "./photos/Final/IMG_0611.jpg",
+      "compressed_path": "./photos/Final/IMG_0611.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0611.placeholder.jpg"
     },
     {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
+      "width": 4731,
+      "height": 3154,
+      "path": "./photos/Final/IMG_0610.jpg",
+      "compressed_path": "./photos/Final/IMG_0610.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0610.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0576.jpg",
+      "compressed_path": "./photos/Final/IMG_0576.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0576.placeholder.jpg"
     },
     {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "width": 2176,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0615.jpg",
+      "compressed_path": "./photos/Final/IMG_0615.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0615.placeholder.jpg"
+    },
+    {
+      "width": 4447,
+      "height": 2965,
+      "path": "./photos/Final/DSCF8285.jpg",
+      "compressed_path": "./photos/Final/DSCF8285.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/DSCF8285.placeholder.jpg"
+    },
+    {
+      "width": 4845,
+      "height": 3230,
+      "path": "./photos/Final/IMG_0577.jpg",
+      "compressed_path": "./photos/Final/IMG_0577.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0577.placeholder.jpg"
+    },
+    {
+      "width": 3080,
+      "height": 4620,
+      "path": "./photos/Final/IMG_0575.jpg",
+      "compressed_path": "./photos/Final/IMG_0575.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0575.placeholder.jpg"
+    },
+    {
+      "width": 3606,
+      "height": 2705,
+      "path": "./photos/Final/IMG_0616.jpg",
+      "compressed_path": "./photos/Final/IMG_0616.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0616.placeholder.jpg"
+    },
+    {
+      "width": 2725,
+      "height": 1533,
+      "path": "./photos/Final/DSCF8655.jpg",
+      "compressed_path": "./photos/Final/DSCF8655.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/DSCF8655.placeholder.jpg"
+    },
+    {
+      "width": 3174,
+      "height": 4761,
+      "path": "./photos/Final/IMG_0574.jpg",
+      "compressed_path": "./photos/Final/IMG_0574.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0574.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0704.jpg",
+      "compressed_path": "./photos/Final/IMG_0704.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0704.placeholder.jpg"
+    },
+    {
+      "width": 2111,
+      "height": 1407,
+      "path": "./photos/Final/IMG_0699.jpg",
+      "compressed_path": "./photos/Final/IMG_0699.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0699.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0666.jpg",
+      "compressed_path": "./photos/Final/IMG_0666.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0666.placeholder.jpg"
+    },
+    {
+      "width": 3933,
+      "height": 2622,
+      "path": "./photos/Final/IMG_0673.jpg",
+      "compressed_path": "./photos/Final/IMG_0673.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0673.placeholder.jpg"
+    },
+    {
+      "width": 1587,
+      "height": 1058,
+      "path": "./photos/Final/DSCF8618 1.jpg",
+      "compressed_path": "./photos/Final/DSCF8618 1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/DSCF8618 1.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0648.jpg",
+      "compressed_path": "./photos/Final/IMG_0648.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0648.placeholder.jpg"
+    },
+    {
+      "width": 3136,
+      "height": 2091,
+      "path": "./photos/Final/IMG_0649.jpg",
+      "compressed_path": "./photos/Final/IMG_0649.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0649.placeholder.jpg"
+    },
+    {
+      "width": 3788,
+      "height": 2526,
+      "path": "./photos/Final/IMG_0724.jpg",
+      "compressed_path": "./photos/Final/IMG_0724.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0724.placeholder.jpg"
+    },
+    {
+      "width": 3423,
+      "height": 2282,
+      "path": "./photos/Final/IMG_0693.jpg",
+      "compressed_path": "./photos/Final/IMG_0693.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0693.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0644.jpg",
+      "compressed_path": "./photos/Final/IMG_0644.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0644.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0719.jpg",
+      "compressed_path": "./photos/Final/IMG_0719.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0719.placeholder.jpg"
+    },
+    {
+      "width": 4003,
+      "height": 2668,
+      "path": "./photos/Final/IMG_0690.jpg",
+      "compressed_path": "./photos/Final/IMG_0690.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0690.placeholder.jpg"
+    },
+    {
+      "width": 3657,
+      "height": 2438,
+      "path": "./photos/Final/IMG_0696.jpg",
+      "compressed_path": "./photos/Final/IMG_0696.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0696.placeholder.jpg"
+    },
+    {
+      "width": 4868,
+      "height": 3245,
+      "path": "./photos/Final/IMG_0654.jpg",
+      "compressed_path": "./photos/Final/IMG_0654.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0654.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0720.jpg",
+      "compressed_path": "./photos/Final/IMG_0720.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0720.placeholder.jpg"
+    },
+    {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Final/IMG_0708.jpg",
+      "compressed_path": "./photos/Final/IMG_0708.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0708.placeholder.jpg"
+    },
+    {
+      "width": 3392,
+      "height": 1908,
+      "path": "./photos/Final/IMG_0579.jpg",
+      "compressed_path": "./photos/Final/IMG_0579.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0579.placeholder.jpg"
+    },
+    {
+      "width": 3897,
+      "height": 2598,
+      "path": "./photos/Final/IMG_0632.jpg",
+      "compressed_path": "./photos/Final/IMG_0632.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0632.placeholder.jpg"
+    },
+    {
+      "width": 2122,
+      "height": 2653,
+      "path": "./photos/Final/IMG_0626.jpg",
+      "compressed_path": "./photos/Final/IMG_0626.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0626.placeholder.jpg"
+    },
+    {
+      "width": 1916,
+      "height": 1277,
+      "path": "./photos/Final/IMG_0630.jpg",
+      "compressed_path": "./photos/Final/IMG_0630.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0630.placeholder.jpg"
+    },
+    {
+      "width": 1655,
+      "height": 2483,
+      "path": "./photos/Final/IMG_0619.jpg",
+      "compressed_path": "./photos/Final/IMG_0619.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0619.placeholder.jpg"
+    },
+    {
+      "width": 1496,
+      "height": 2244,
+      "path": "./photos/Final/DSCF8306.jpg",
+      "compressed_path": "./photos/Final/DSCF8306.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/DSCF8306.placeholder.jpg"
+    },
+    {
+      "width": 2032,
+      "height": 1354,
+      "path": "./photos/Final/IMG_0635.jpg",
+      "compressed_path": "./photos/Final/IMG_0635.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Final/IMG_0635.placeholder.jpg"
     }
   ]
 }
