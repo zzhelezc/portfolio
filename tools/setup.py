@@ -9,6 +9,7 @@ import os
 import sys
 import json
 import re
+from collections import OrderedDict
 
 PATH = os.path.dirname(__file__) + '/../'
 RELATIVE_PATH = 'photos'
@@ -53,6 +54,9 @@ def get_images(path):
     filtered_items = list(filter(is_original, items))
 
     result = []
+    
+    filtered_items.sort()
+    print(filtered_items)
     for img in filtered_items:
         width, height = 0, 0
         has_compressed = False
@@ -79,13 +83,16 @@ def write_config(config):
 
 def run():
     print('Starting to collect all albums within the /photos directory...')
-    config = {}
+    config = OrderedDict()
     dirs = get_directories()
+    print(dirs)
+    dirs.reverse()
     print('Found {length} directories'.format(length=len(dirs)))
     for i, path in enumerate(dirs):
         print(str(i+1) + ': Processing photos for the album "{album}"'.format(
             album=path))
-        config[path] = get_images(path)
+        images = get_images(path)
+        config[path] = images 
 
         print('   Done processing {l} photos for "{album}"\n'.format(
             l=len(config[path]),
