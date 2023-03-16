@@ -55,7 +55,7 @@ def get_images(path):
 
     result = []
     
-    filtered_items.sort()
+    filtered_items.sort().reverse()
     print(filtered_items)
     for img in filtered_items:
         width, height = 0, 0
