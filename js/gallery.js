@@ -65,8 +65,12 @@ class Renderer {
       image.src = photo.placeholderSrc();
       image.classList.add('lazyload');
     } else {
-      // Original
-      image.src = photo.src();
+        // Original
+        image.setAttribute("data-original", photo.originalSrc());
+        image.setAttribute("data-src", photo.originalSrc());
+        //image.src = photo.src();
+        image.src = photo.placeholderSrc();
+        image.classList.add('lazyload');
     }
 
     return image;
